@@ -1,0 +1,7 @@
+Interview Preparation Guide
+
+For technical interviews, prepare a short explanation of your projects, your role, the technical decisions you made and the problems you solved.
+
+For behavioral questions, answer clearly and use specific examples.
+
+For a job-specific interview, review the skills mentioned in the job description and prepare examples showing how you used those skills.

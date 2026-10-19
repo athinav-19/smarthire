@@ -1,0 +1,7 @@
+Software Engineering Career Guide
+
+Entry-level software engineering roles commonly value programming fundamentals, data structures, algorithms, Git, databases, debugging and practical projects.
+
+A strong beginner portfolio should clearly explain the problem, technology used, implementation and result.
+
+For interviews, candidates should practice explaining projects, programming fundamentals, common data structures, SQL and basic system concepts.

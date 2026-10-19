@@ -1,0 +1,7 @@
+Data Analytics Career Guide
+
+Data analyst roles commonly use SQL, spreadsheets, statistics, Python and dashboard tools such as Power BI or Tableau.
+
+A beginner should practice cleaning datasets, writing SQL queries, calculating useful metrics and presenting findings clearly.
+
+Portfolio projects should show the question being answered, data preparation, analysis, visualization and business insight.
